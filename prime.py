@@ -10,6 +10,6 @@ else:
             break
 
 if is_prime:
-    print("Prime")
+    print("Prime Number")
 else:
-    print("Not Prime")
+    print("Not Prime Number")
